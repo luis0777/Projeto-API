@@ -1,8 +1,10 @@
 # AutorCriacaoDto
 Propósito: Serve como um objeto de transferência de dados (DTO) para a criação de um autor.
 
-# Propriedades:
+Propriedades:
+
 Nome: Nome do autor.
+
 Sobrenome: Sobrenome do autor.
 
 # AutorEdicaoDto
