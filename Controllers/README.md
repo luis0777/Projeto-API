@@ -4,8 +4,8 @@
 Gerencia as operações relacionadas aos autores.
 
 ## Métodos:
-#ListarAutores: Lista todos os autores.
-#BuscarAutorPorId: Busca um autor pelo seu ID.
+ListarAutores: Lista todos os autores.
+BuscarAutorPorId: Busca um autor pelo seu ID.
 BuscarAutorPorIdLivro: Busca o autor de um livro específico pelo ID do livro.
 CriarAutor: Cria um novo autor com base nos dados fornecidos.
 EditarAutor: Edita as informações de um autor existente.
