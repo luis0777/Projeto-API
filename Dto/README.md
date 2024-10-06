@@ -20,6 +20,9 @@ Nome: Nome atualizado do autor.
 
 Sobrenome: Sobrenome atualizado do autor.
 
+### LIVRO
+
+
 # LivroCriacaoDto
 Propósito: Usado como DTO para criar um novo livro.
 
@@ -40,6 +43,9 @@ Id: Identificador único do livro.
 Titulo: Título atualizado do livro.
 
 Autor: Um objeto AutorVinculoDto que representa o autor vinculado ao livro.
+
+### VINCULO
+
 
 # AutorVinculoDto
 Propósito: Usado para vincular as informações básicas de um autor com outros objetos, como um livro.
