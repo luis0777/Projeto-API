@@ -30,4 +30,5 @@ ExcluirLivro: Exclui um livro com base no ID fornecido.
 ## Estrutura:
 O controlador usa a interface ILivroInterface, que, assim como no caso dos autores, se conecta ao serviço que interage com o banco de dados.
 
+## Conclusão
 Ambos os controladores seguem um padrão similar, onde recebem as requisições HTTP, invocam os métodos das respectivas interfaces para interagir com os serviços e retornam os resultados apropriados (como lista de autores ou livros, dados individuais ou status de sucesso/erro).
